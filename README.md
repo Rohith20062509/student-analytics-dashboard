@@ -178,7 +178,7 @@ npm run dev
 
 ## 👨‍💻 Developed By
 
-**Tanmay Guruvugari**
+**Samala Rohith Reddy**
 
 Full Stack Web Development Intern Project
 
