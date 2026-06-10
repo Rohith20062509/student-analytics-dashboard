@@ -1,15 +1,5 @@
 # 📊 EduMetrics – Student Analytics Dashboard
 
-## 🚀 Live Demo
-
-**Frontend:**
-https://student-analytics-dashboard-smoky.vercel.app
-
-**Backend API:**
-https://student-analytics-dashboard-fi0m.onrender.com
-
----
-
 ## 📌 Project Overview
 
 EduMetrics is a full-stack Student Analytics Dashboard designed to help institutions monitor student performance, manage records, and generate academic insights through interactive visualizations.
